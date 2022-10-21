@@ -16,8 +16,8 @@ def find_prime(num: int)->bool:
         return False
 
     '''
-    #figuring out a list of prime numbe to a give range from 2
-    from math import sqrt
+#figuring out a list of prime numbe to a give range from 2
+from math import sqrt
 
 def prime(x: int) -> list:
     if x==1:
